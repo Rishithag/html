@@ -1,0 +1,29 @@
+h1 {
+	color: #FF0051;
+}
+
+body {
+	background: #FFF11D;
+}
+
+body {
+	background: url("9.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1:hover {
+	color: blue;
+}
+
+#special:hover {
+	color: pink;
+}
+
+a[href="https://htmlcolorcodes.com/color-picker/"] {
+	color: red;
+}
+
+a[href="https://htmlcolorcodes.com/color-picker/"]:hover {
+	color: black;
+}

@@ -1,0 +1,23 @@
+body {
+	border : 20px solid #bdc3c7;
+	margin-right: 15%;
+	margin-left: 15%;
+	padding-left: 5%;
+	padding-right: 5%;
+	font-family: Source Sans Pro;
+}
+
+#pone {
+	border-left: 6px solid #bdc3c7;
+	padding-left: 1%;
+}
+
+h4 {
+	color : #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.5rem;	
+}
+
+#one {
+	border-bottom: 1px solid #bdc3c7
+}
